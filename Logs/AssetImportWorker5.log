@@ -1,0 +1,266 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.0f1 (3721df5a8b28) revision 3613151'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 3980 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+C:/Users/rivof/mummyUAS
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+51364
+Successfully changed project path to: C:/Users/rivof/mummyUAS
+C:/Users/rivof/mummyUAS
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0f1 (3721df5a8b28)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/rivof/mummyUAS/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX150 (ID=0x1d10)
+    Vendor:   
+    VRAM:     1994 MB
+    Driver:   23.21.13.8873
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56960
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004246 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.006 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001102 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.423 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 1.27 seconds
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1539.
+Total: 51.402400 ms (FindLiveObjects: 0.238900 ms CreateObjectMapping: 0.066900 ms MarkObjects: 45.111500 ms  DeleteObjects: 5.982000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/run-audio.mp3
+  artifactKey: Guid(e802df60917f8e148a326b1a066f5908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/run-audio.mp3 using Guid(e802df60917f8e148a326b1a066f5908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21bdc9db874eb9d0fd20230fccd4dc5f') in 8.616848 seconds
+  Import took 9.402496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/Mummy_Mon.prefab
+  artifactKey: Guid(6dd12cb3bfb2b2940ab9cd27a755c2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mummy_Mon.prefab using Guid(6dd12cb3bfb2b2940ab9cd27a755c2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25f86f129b00de18a980185aad0faab8') in 11.321026 seconds
+  Import took 11.342504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 340.447389 seconds.
+  path: Assets/amusedART
+  artifactKey: Guid(b5c265816cd311945ac5873a3675895b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/amusedART using Guid(b5c265816cd311945ac5873a3675895b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a318598e4c41680cb98da242d8c3af2') in 0.439602 seconds
+  Import took 0.721552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.427921 seconds.
+  path: Assets/amusedART
+  artifactKey: Guid(b5c265816cd311945ac5873a3675895b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/amusedART using Guid(b5c265816cd311945ac5873a3675895b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a318598e4c41680cb98da242d8c3af2') in 0.007010 seconds
+  Import took 0.149947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.991932 seconds.
+  path: Assets/amusedART/Mummy_Mon
+  artifactKey: Guid(ae548e6995630f64196697fad1ba49dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/amusedART/Mummy_Mon using Guid(ae548e6995630f64196697fad1ba49dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c67ea13a3a0ed39c54f8420f93f4e7a6') in 0.012025 seconds
+  Import took 0.108504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.556124 seconds.
+  path: Assets/amusedART/Mummy_Mon/Mummy_Mon.FBX
+  artifactKey: Guid(3353e4f866c39d043a315b41717c9bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/amusedART/Mummy_Mon/Mummy_Mon.FBX using Guid(3353e4f866c39d043a315b41717c9bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5ea9895fba04de1df82ffd14f47e54b') in 3.408898 seconds
+  Import took 3.598101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014446 seconds.
+  path: Assets/amusedART/Mummy_Mon/Textures/Mummy_albedo.psd
+  artifactKey: Guid(7106f7c372748ed41a18bd0ec1bb4357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/amusedART/Mummy_Mon/Textures/Mummy_albedo.psd using Guid(7106f7c372748ed41a18bd0ec1bb4357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067daffa10121786502cb3f8626b071e') in 0.603610 seconds
+  Import took 0.841318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/amusedART/Mummy_Mon/Textures/Mummy_spec.psd
+  artifactKey: Guid(7200799c4a9779c49ac1143d2a922822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/amusedART/Mummy_Mon/Textures/Mummy_spec.psd using Guid(7200799c4a9779c49ac1143d2a922822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b67da07fbfd2ab2e9289cc48a4ae3964') in 0.439507 seconds
+  Import took 0.445471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/amusedART/Mummy_Mon/Textures
+  artifactKey: Guid(2a34e301e469d0a4894bf96ea2de1b3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/amusedART/Mummy_Mon/Textures using Guid(2a34e301e469d0a4894bf96ea2de1b3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e97bbf4d82df0a7456f608d96d961de') in 0.059251 seconds
+  Import took 0.163530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001175 seconds.
+  path: Assets/amusedART/Mummy_Mon/Textures/Mummy_normals.psd
+  artifactKey: Guid(aa4735feabd865847b0a22941a153690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/amusedART/Mummy_Mon/Textures/Mummy_normals.psd using Guid(aa4735feabd865847b0a22941a153690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69af5aaed77d69ff75266b1257af6843') in 0.386093 seconds
+  Import took 0.430017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.819441 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(d08bbd603c914964190713bd95689eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(d08bbd603c914964190713bd95689eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1f8c3745b4447c73e031f9f306b7c02') in 0.021761 seconds
+  Import took 0.048210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.790080 seconds.
+  path: Assets/MommyBehavior.cs
+  artifactKey: Guid(c6267ff4744085d4e806c2e14fb98485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MommyBehavior.cs using Guid(c6267ff4744085d4e806c2e14fb98485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f3f548747c7591e970401aa117b5900') in 0.187618 seconds
+  Import took 0.218767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 209.632588 seconds.
+  path: Assets/AnimeGirlAnimations_free
+  artifactKey: Guid(d15b0c29220228f478598b8b893517d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirlAnimations_free using Guid(d15b0c29220228f478598b8b893517d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c43aecd489a1b487ebe6fc441ac610e5') in 0.110387 seconds
+  Import took 0.174380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 173.636200 seconds.
+  path: Assets/AnimeGirlAnimations_free/Animator
+  artifactKey: Guid(92a9ab8920849844d8c97399d9bf07f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirlAnimations_free/Animator using Guid(92a9ab8920849844d8c97399d9bf07f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b64ff75011f5a7b7d0ece74253c0ec') in 0.256775 seconds
+  Import took 0.322220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.802383 seconds.
+  path: Assets/AnimeGirlAnimations_free/Animator/AGIAFree_animator.controller
+  artifactKey: Guid(1099d871ea74aed47abfd17757899481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirlAnimations_free/Animator/AGIAFree_animator.controller using Guid(1099d871ea74aed47abfd17757899481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63ffd060b1379c698b67f7c1260c2e0e') in 0.441601 seconds
+  Import took 0.477919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.799820 seconds.
+  path: Assets/AnimeGirlAnimations_free/Script
+  artifactKey: Guid(8846cec0974f6c7438ea150de9b1c23c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirlAnimations_free/Script using Guid(8846cec0974f6c7438ea150de9b1c23c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f57e379d159eb05035ae7148c74806e') in 0.059424 seconds
+  Import took 0.070991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.108561 seconds.
+  path: Assets/AnimeGirlAnimations_free/Script/AGIAFree_sample.cs
+  artifactKey: Guid(28d2e42ac1f82ec43b5fbc6605950b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimeGirlAnimations_free/Script/AGIAFree_sample.cs using Guid(28d2e42ac1f82ec43b5fbc6605950b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd44755d1ed7fed3a67a59358decbedf7') in 0.175231 seconds
+  Import took 0.251617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.146957 seconds.
+  path: Assets/StreamingAssets
+  artifactKey: Guid(895eca12cbef6614dbc1b4b3ef54666f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets using Guid(895eca12cbef6614dbc1b4b3ef54666f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b002b2e3395395ab4b5b2ed98b3cc04') in 0.119835 seconds
+  Import took 0.181790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.705336 seconds.
+  path: Assets/StreamingAssets/Vuforia
+  artifactKey: Guid(d70391da1b3035d4ba4c7cf3fde3881d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/Vuforia using Guid(d70391da1b3035d4ba4c7cf3fde3881d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd81e8a6cbad88b9a1ba8b0a7c42075d6') in 0.046343 seconds
+  Import took 0.075178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012050 seconds.
+  path: Assets/StreamingAssets/Vuforia
+  artifactKey: Guid(d70391da1b3035d4ba4c7cf3fde3881d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/Vuforia using Guid(d70391da1b3035d4ba4c7cf3fde3881d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd81e8a6cbad88b9a1ba8b0a7c42075d6') in 0.007072 seconds
+  Import took 0.012532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.223713 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(c15bf2d008702754a81f7cdbbc5c8055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(c15bf2d008702754a81f7cdbbc5c8055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf161bf70752b7eeaa0488b7893b2e75') in 0.062800 seconds
+  Import took 0.226717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040536 seconds.
+  path: Assets/Resources/VuforiaConfiguration.asset
+  artifactKey: Guid(8c187fb8c7d497f408a60b17fe2c0e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/VuforiaConfiguration.asset using Guid(8c187fb8c7d497f408a60b17fe2c0e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '598c75eca14d50efea301d2d0d974d81') in 0.247915 seconds
+  Import took 0.264551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.725048 seconds.
+  path: Assets/Editor
+  artifactKey: Guid(16536cd1e1891394098b9c167b5d6a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor using Guid(16536cd1e1891394098b9c167b5d6a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf70ff33d3b178b0510443525d2ec87') in 0.040480 seconds
+  Import took 0.107807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.781945 seconds.
+  path: Assets/Editor/Vuforia
+  artifactKey: Guid(9c1f6644ac3a9914482284ebc55c1777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia using Guid(9c1f6644ac3a9914482284ebc55c1777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd1a68ec34c5e475109740734e0400a') in 0.026996 seconds
+  Import took 0.115420 seconds .
+
